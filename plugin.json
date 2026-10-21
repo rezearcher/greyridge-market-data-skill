@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "greyridge-market-data",
+  "version": "0.1.0",
+  "description": "Live crypto market data for a Base/EVM trading agent — spot prices (DefiLlama), top/trending coins (CoinGecko), DeFi yields, and a one-call market brief, via the Grey Ridge x402 API; free preview with curl, cheap paid x402 routes in USDC on Base.",
+  "author": { "name": "Grey Ridge Signals Group LLC", "url": "https://api.greyridgesignals.ai" },
+  "repository": "https://github.com/rezearcher/greyridge-market-data-skill",
+  "license": "MIT",
+  "keywords": ["crypto", "market-data", "prices", "defi-yields", "coingecko", "defillama", "x402", "base"]
+}
